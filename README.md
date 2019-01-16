@@ -11,7 +11,7 @@ Data Structure, Probability theory, Linear Algebra
 
 ### Installing
 
-Installing Anaconda, Opencv
+Anaconda, Opencv
 
 ### Syllabus
 
@@ -22,7 +22,7 @@ Installing Anaconda, Opencv
 
 <div><a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1</a>  Overview of Computer Vision.
 
-<p>Due: warm exercises: numpy, opencv</p>
+<p> <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Warmup.pdf">Due: warm exercises: numpy, opencv</a></p>
 
 </div> 
 
