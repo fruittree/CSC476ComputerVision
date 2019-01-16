@@ -1,5 +1,8 @@
-# CSC476 ComputerVision by Prof. Bei Xiao
+# CSC476 Computer Vision by Prof. Bei Xiao
 
+<br>
+<img src="https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all" width="400"/>
+<br>
 
 Introduction to Computer Vision with Python
 
