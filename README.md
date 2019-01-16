@@ -4,12 +4,7 @@
 Introduction to Computer Vision with Python
 
 ### Prerequisites
-
 Data Structure, Probability theory, Linear Algebra
-
-```
-Give examples
-```
 
 ### Installing
 
@@ -21,7 +16,7 @@ Installing Anaconda, Opencv
 
 ## Lecture slides and demo code
 
-<h2>Lecture slides and demo codes:</h2>
+
 <p><a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1</a>  Overview of Computer Vision.</p> 
 
 ### Due: warm exercises
