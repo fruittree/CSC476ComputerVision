@@ -13,11 +13,11 @@ Data Structure, Probability theory, Linear Algebra
 
 Anaconda, Opencv
 
-### Syllabus
+## Syllabus
 
 <p><a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/CSC476_Syllabus_Xiao_2019S.pdf">Syllabus</a> </p> 
 
-### Lecture slides and demo code
+## Lecture slides and demo code
 
 
 <div><a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1</a>  Overview of Computer Vision.
@@ -26,3 +26,4 @@ Anaconda, Opencv
 
 </div> 
 
+## Homeworks
