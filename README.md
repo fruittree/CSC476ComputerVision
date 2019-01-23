@@ -9,7 +9,6 @@ Office hour: Tuesday, 2:30-3:30pm, Friday, 2:30-3:30pm or by Appointment
 
 
 
-
 # General Information
 
 ## Course Objective
@@ -73,10 +72,10 @@ Anaconda 3, Opencv
 
 ### Course Schedule and lecture slides
 
-Day | Lecture | Reading    | Exercises & Homeworks  
-------- | ---------------- | ---------- | ---------:
-|Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises|
-|Jan 13 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2: Linear Filters</a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>; Homework 1 out|
+Day | Lecture | Reading    | Exercises & Homeworks | Code Demo
+------- | ---------------- | ---------- | --------- | ---------:
+|Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises||
+|Jan 13 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2: Linear Filters</a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>; Homework 1 out|pointProcess(https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2/pointProcess.py)
 
 
 
