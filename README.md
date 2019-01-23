@@ -19,7 +19,7 @@ We will use Python 3 as our primary programming tool in this course. Codes writt
 ### Prerequisites
 Data Structure, Probability theory, Linear Algebra
 
-### textbooks
+### Textbooks and Materials
 Textbooks and references: (all books are in library reserve and in the bookstore)  
 
 1.	(Required) R. Szeliski, Computer Vision: Algorithms and Applications available at 
@@ -65,7 +65,7 @@ Programming projects will be typically graded as follows:
 
 Anaconda 3, Opencv
 
-## Syllabus
+## Detailed Syllabus
 
 <p><a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/CSC476_Syllabus_Xiao_2019S.pdf">Syllabus</a> </p> 
 
