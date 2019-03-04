@@ -79,7 +79,7 @@ Day | Lecture | Reading    | Homeworks
 |Wed, Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro to computer vision </a> | Chapter 1| Warm-up exercises|
 |Wed, Jan 23 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2:Linear Filtering </a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>|
 |Wed, Jan 30 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture3.pdf">Lecture 3: Linear Algebra </a>| Appendix A|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 3 in-class Exercise</a>|
-|Wed, Feb 6 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture4.pdf">Lecture 4: Histogram Equalization, Gaussian filters </a>| Chapter 3, page 94-101|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 4 in-class Exercise</a>|
+|Wed, Feb 6 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture4.pdf">Lecture 4: Histogram Equalization, Gaussian filters </a>| Chapter 3, page 94-101|<a href="">Lecture 4 in-class Exercise</a>|
 
 <!-- |Wed, Feb 6 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture4.pdf">Lecture 4: Histogram Equliazation </a>| Chapter 3, Page 94-101|Lecture 4 in-class Exercise| -->
 
