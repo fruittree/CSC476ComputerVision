@@ -82,7 +82,7 @@ Day | Lecture | Reading    | Homeworks
 |Wed, Jan 23 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2: Linear Filter </a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>|
 
 
-|Wed, Feb 6 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture3.pdf">Lecture 3: Linear Algebra Review, Gaussian Filters </a>| Appendix A|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 3 in-class Exercise</a>|
+|Wed, Jan 23 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2: Linear Filter </a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>|
 
 
 
