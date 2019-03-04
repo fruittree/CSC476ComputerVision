@@ -75,16 +75,13 @@ Anaconda 3, Opencv
 Day | Lecture | Reading    | Exercises & Homeworks 
 ----------- | ---------------- | ---------- | ---------:
 |Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises||
-|Jan 23 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2: Linear Filters</a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>; Homework 1 out|
+
+|Jan 23 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2.pdf">Lecture 2: Linear Filters</a>| Chapter 3, Page 89-104|<a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture2_InClassExercises.pdf">Lecture 2 in-class Exercise</a>; Homework 1 out||
+
 |Feb 6 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture3.pdf">Lecture 3: Linear Algebra Review, Gaussian Filters</a>| Appendix A; <a href="http://www.deeplearningbook.org/contents/linear_algebra.html">Review of Linear algebra</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture3">Lecture 3 in-class code-demo</a>; Homework 2 out|
 
+|Feb 6 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture3.pdf">Lecture 3: Linear Algebra Review, Gaussian Filters</a>| Appendix A; <a href="http://www.deeplearningbook.org/contents/linear_algebra.html">Review of Linear algebra</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture3">Lecture 3 in-class code-demo</a>; Homework 2 out|
 
-|Feb 13| <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture4.pdf">
-Lecture 4: Histograms Equalization, Border Effect</a>| Appendix A; <a href="">Histogram Equalization</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture4">Lecture 4 in-class code-demo</a>; Homework 3 out|
-
-|Feb 27| <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture5.pdf">
-Lecture 5: Fourier Transform</a>| Appendix A; <a href="http://cns-alumni.bu.edu/~slehar/fourier/fourier.html 
-">Review of Linear algebra</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture5">Lecture 4 in-class code-demo</a>; Homework 3 due|
 
 ### Projects
 
