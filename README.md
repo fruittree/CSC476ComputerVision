@@ -76,7 +76,7 @@ Anaconda 3, Opencv
 
 Day | Lecture | Reading    | Homeworks
 ------- | ---------------- | ---------- | ---------:
-|Tuesday, Jan 15 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture1.pdf">Lecture 1: Internet and Web </a> | Getting Started With The Web (https://www.google.com)| Homework 1(receipe) out|
+|Tuesday, Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro to computer vision </a> | Chapter 1| Warm-up exercises|
 |Friday, Jan 18 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture2.pdf">Lecture 2: HTML </a>| Intro to HTML (https://developer.mozilla.org/en-US/docs/Learn/HTML)|Creative Project Week 1|
 <!-- |Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises -->
 
