@@ -81,7 +81,7 @@ Day | Lecture | Reading    | Exercises & Homeworks
 Lecture 4: Histograms Equalization, Border Effect</a>| Appendix A; <a href="">Histogram Equalization</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture4">Lecture 4 in-class code-demo</a>; Homework 3 out|
 
 Lecture 5: Fourier Transform</a>| Appendix A; <a href="http://cns-alumni.bu.edu/~slehar/fourier/fourier.html 
-">Review of Linear algebra</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture5">Lecture 4 in-class code-demo</a>; Homework 2 out|
+">Review of Linear algebra</a>|<a href="https://github.com/fruittree/CSC476ComputerVision/tree/master/Lecture5">Lecture 4 in-class code-demo</a>; Homework 3 due|
 
 ### Projects
 
