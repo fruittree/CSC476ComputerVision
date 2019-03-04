@@ -74,7 +74,7 @@ Anaconda 3, Opencv
 
 Day | Lecture | Reading    | Exercises & Homeworks 
 ----------- | ---------------- | ---------- | ---------:
-|Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises|
+|Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises
 
 |Jan 16 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Intro </a> | Chapter 1| Warmup exercises|
 
